@@ -1,6 +1,6 @@
 import math
 import tcod as libtcod
-
+from render_functions import RenderOrder
 
 class Entity:
 
